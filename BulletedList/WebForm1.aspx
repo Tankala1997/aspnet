@@ -15,6 +15,7 @@
             <asp:ListItem Value="2">Graduate</asp:ListItem>
             <asp:ListItem Value="3">Post-graduate</asp:ListItem>
             <asp:ListItem Value="4">P.G</asp:ListItem>
+            <asp:ListItem Value="4">P.G</asp:ListItem>
 
         </asp:BulletedList>
     
