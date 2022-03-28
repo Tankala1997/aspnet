@@ -11,7 +11,7 @@
     <div>
     
         <asp:BulletedList ID="BulletedList1" runat="server" DisplayMode="LinkButton" OnClick="BulletedList1_Click">
-            <asp:ListItem Value="1">Diploma</asp:ListItem>
+            <asp:ListItem Value="1">Diploma 1</asp:ListItem>
             <asp:ListItem Value="2">Graduate</asp:ListItem>
             <asp:ListItem Value="3">Post-graduate</asp:ListItem>
             <asp:ListItem Value="4">P.G</asp:ListItem>
